@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="arboles_solicitados" id="arboles_solicitados">
+	<SimpleField name="Nº indivi" type="float"></SimpleField>
+	<SimpleField name="Codigo_Cen" type="string"></SimpleField>
+	<SimpleField name="Nombre_com" type="string"></SimpleField>
+	<SimpleField name="Estado_fit" type="string"></SimpleField>
+	<SimpleField name="Accion_sol" type="string"></SimpleField>
+	<SimpleField name="Este_X" type="float"></SimpleField>
+	<SimpleField name="Norte_Y" type="float"></SimpleField>
+</Schema>
+<Folder><name>arboles_solicitados</name>
+  <Placemark id="arboles_solicitados.1">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">1</SimpleData>
+		<SimpleData name="Codigo_Cen">E86</SimpleData>
+		<SimpleData name="Nombre_com">Taruma</SimpleData>
+		<SimpleData name="Estado_fit">Malo</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437672.602000000013504</SimpleData>
+		<SimpleData name="Norte_Y">7203864.059999999590218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6190595648374,-25.2803595138774</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.2">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">2</SimpleData>
+		<SimpleData name="Codigo_Cen">E87</SimpleData>
+		<SimpleData name="Nombre_com">Palmera Karanda'y</SimpleData>
+		<SimpleData name="Estado_fit">-</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437661.389000000024680</SimpleData>
+		<SimpleData name="Norte_Y">7203863.169999999925494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6191709722935,-25.2803670835094</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.3">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">3</SimpleData>
+		<SimpleData name="Codigo_Cen">E88</SimpleData>
+		<SimpleData name="Nombre_com">Palmera Karanda'y</SimpleData>
+		<SimpleData name="Estado_fit">-</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437665.814999999944121</SimpleData>
+		<SimpleData name="Norte_Y">7203859.730000000447035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6191271712642,-25.2803983319184</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.4">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">4</SimpleData>
+		<SimpleData name="Codigo_Cen">E89</SimpleData>
+		<SimpleData name="Nombre_com">Palmera Karanda'y</SimpleData>
+		<SimpleData name="Estado_fit">-</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437664.191999999980908</SimpleData>
+		<SimpleData name="Norte_Y">7203863.129999999888241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.619143134943,-25.2803675615319</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.5">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">5</SimpleData>
+		<SimpleData name="Codigo_Cen">E90</SimpleData>
+		<SimpleData name="Nombre_com">Palmera Karanda'y</SimpleData>
+		<SimpleData name="Estado_fit">-</SimpleData>
+		<SimpleData name="Accion_sol">Podar</SimpleData>
+		<SimpleData name="Este_X">437671.696999999985565</SimpleData>
+		<SimpleData name="Norte_Y">7203859.790000000037253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6190687489199,-25.2803980352115</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.6">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">6</SimpleData>
+		<SimpleData name="Codigo_Cen">E91</SimpleData>
+		<SimpleData name="Nombre_com">Yvyraro</SimpleData>
+		<SimpleData name="Estado_fit">Malo</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437670.082999999984168</SimpleData>
+		<SimpleData name="Norte_Y">7203851.589999999850988</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6190851548615,-25.2804720157693</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.7">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">7</SimpleData>
+		<SimpleData name="Codigo_Cen">E92</SimpleData>
+		<SimpleData name="Nombre_com">Palmera Karanda'y</SimpleData>
+		<SimpleData name="Estado_fit">-</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437665.520000000018626</SimpleData>
+		<SimpleData name="Norte_Y">7203856.290000000037253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6191302588515,-25.2804293835849</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.8">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">8</SimpleData>
+		<SimpleData name="Codigo_Cen">E93</SimpleData>
+		<SimpleData name="Nombre_com">Taruma</SimpleData>
+		<SimpleData name="Estado_fit">Sano</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437672.000000000000000</SimpleData>
+		<SimpleData name="Norte_Y">7203850.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6190661882146,-25.2804864537004</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.9">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">9</SimpleData>
+		<SimpleData name="Codigo_Cen">F36</SimpleData>
+		<SimpleData name="Nombre_com">Ka'i kyhyjeha</SimpleData>
+		<SimpleData name="Estado_fit">Regular</SimpleData>
+		<SimpleData name="Accion_sol">En estudio</SimpleData>
+		<SimpleData name="Este_X">437632.000000000000000</SimpleData>
+		<SimpleData name="Norte_Y">7203855.999999999068677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6194631904132,-25.2804306051012</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.10">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">10</SimpleData>
+		<SimpleData name="Codigo_Cen">F37</SimpleData>
+		<SimpleData name="Nombre_com">Palmera Karanda'y</SimpleData>
+		<SimpleData name="Estado_fit">Sano</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437640.000000000000000</SimpleData>
+		<SimpleData name="Norte_Y">7203880.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6193826345207,-25.2802142133475</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.11">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">11</SimpleData>
+		<SimpleData name="Codigo_Cen">F54</SimpleData>
+		<SimpleData name="Nombre_com">Yvyraro</SimpleData>
+		<SimpleData name="Estado_fit">Malo</SimpleData>
+		<SimpleData name="Accion_sol">Talar</SimpleData>
+		<SimpleData name="Este_X">437666.405000000027940</SimpleData>
+		<SimpleData name="Norte_Y">7203849.990000000223517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6191217578446,-25.2804863108565</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.12">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">13</SimpleData>
+		<SimpleData name="Codigo_Cen">F35</SimpleData>
+		<SimpleData name="Nombre_com">Lapacho Negro</SimpleData>
+		<SimpleData name="Accion_sol">En estudio</SimpleData>
+		<SimpleData name="Este_X">437640.000000000000000</SimpleData>
+		<SimpleData name="Norte_Y">7203880.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6193855492361,-25.2803783651396</coordinates></Point>
+  </Placemark>
+  <Placemark id="arboles_solicitados.13">
+	<ExtendedData><SchemaData schemaUrl="#arboles_solicitados">
+		<SimpleData name="Nº indivi">14</SimpleData>
+		<SimpleData name="Codigo_Cen">F34</SimpleData>
+		<SimpleData name="Nombre_com">Yvyraro</SimpleData>
+		<SimpleData name="Accion_sol">En estudio</SimpleData>
+		<SimpleData name="Este_X">437666.405000000027940</SimpleData>
+		<SimpleData name="Norte_Y">7203849.990000000223517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6193669656134,-25.2804546711128</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
