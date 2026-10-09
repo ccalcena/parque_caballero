@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="arboles_destronque_parquecaballero" name="arboles_destronque_parquecaballero">
+      <SimpleField name="Nº individuo" type="int"/>
+      <SimpleField name="Codigo_Censo" type="string"/>
+      <SimpleField name="Nombre_comun" type="string"/>
+      <SimpleField name="Nombre_cientifico" type="string"/>
+      <SimpleField name="Estado_fitosanitario" type="string"/>
+      <SimpleField name="Obs_estado_sanitario" type="string"/>
+      <SimpleField name="Accion_solicitada" type="string"/>
+      <SimpleField name="Obs_accion" type="string"/>
+      <SimpleField name="Zona_UTM" type="string"/>
+      <SimpleField name="Este_X" type="float"/>
+      <SimpleField name="Norte_Y" type="float"/>
+      <SimpleField name="Coordenada_confiable" type="string"/>
+      <SimpleField name="Fuente_coordenada" type="string"/>
+    </Schema>
+    <Schema id="arboles_solicitados.schema">
+      <SimpleField name="Nº individuo" type="int"/>
+      <SimpleField name="Codigo_Censo" type="string"/>
+      <SimpleField name="Nombre_comun" type="string"/>
+      <SimpleField name="Estado_fitosanitario" type="string"/>
+      <SimpleField name="Accion_solicitada" type="string"/>
+      <SimpleField name="Obs_accion" type="string"/>
+      <SimpleField name="Este_X" type="double"/>
+      <SimpleField name="Norte_Y" type="double"/>
+    </Schema>
+    <Folder>
+      <name>arboles_destronque_parquecaballero</name>
+      <Placemark id="arboles_destronque_parquecaballero.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">1</SimpleData>
+            <SimpleData name="Codigo_Censo">E86</SimpleData>
+            <SimpleData name="Nombre_comun">Taruma</SimpleData>
+            <SimpleData name="Nombre_cientifico">Vitex cymosa</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Malo</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Talar y trasladar epifitas a otro árbol. Está ubicado frente a la escalera</SimpleData>
+            <SimpleData name="Zona_UTM">21S</SimpleData>
+            <SimpleData name="Este_X">437691</SimpleData>
+            <SimpleData name="Norte_Y">7203920</SimpleData>
+            <SimpleData name="Coordenada_confiable">Media</SimpleData>
+            <SimpleData name="Fuente_coordenada">Marca de agua GPS en foto 1 (07/08/2026 10:49). Foto 2 (10:50) dio 437665 / 7203867: ambas se incluyen por discrepancia de ~30-50 m entre tomas del mismo árbol; verificar en campo.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6188742744351,-25.2798551297682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">2</SimpleData>
+            <SimpleData name="Codigo_Censo">E87</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Nombre_cientifico">Copernicia alba</SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437661.389</SimpleData>
+            <SimpleData name="Norte_Y">7203863.17</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada">Sin foto en el anexo del informe; sin coordenada registrada.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191709722935,-25.2803670835094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">3</SimpleData>
+            <SimpleData name="Codigo_Censo">E88</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Nombre_cientifico">Copernicia alba</SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437665.815</SimpleData>
+            <SimpleData name="Norte_Y">7203859.73</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada"><![CDATA[Foto en anexo, pero la marca de agua queda tapada por el tronco; dígitos ilegibles más allá de '21J 437...'.]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191271712642,-25.2803983319184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">4</SimpleData>
+            <SimpleData name="Codigo_Censo">E89</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Nombre_cientifico">Copernicia alba</SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Dentro de piscina natural</SimpleData>
+            <SimpleData name="Este_X">437664.192</SimpleData>
+            <SimpleData name="Norte_Y">7203863.13</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada">Sin foto en el anexo del informe; sin coordenada registrada.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.619143134943,-25.2803675615319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">5</SimpleData>
+            <SimpleData name="Codigo_Censo">E90</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Nombre_cientifico">Copernicia alba</SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Podar</SimpleData>
+            <SimpleData name="Obs_accion">Podar parte aérea, realizar huecos en el tronco para nido de aves</SimpleData>
+            <SimpleData name="Este_X">437671.697</SimpleData>
+            <SimpleData name="Norte_Y">7203859.79</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada">Sin foto en el anexo del informe; sin coordenada registrada.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6190687489199,-25.2803980352115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">6</SimpleData>
+            <SimpleData name="Codigo_Censo">E91</SimpleData>
+            <SimpleData name="Nombre_comun">Yvyraro</SimpleData>
+            <SimpleData name="Nombre_cientifico">Pterogyne nitens</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Malo</SimpleData>
+            <SimpleData name="Obs_estado_sanitario">Falta poda, tiene hueco</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Mal estado sanitario</SimpleData>
+            <SimpleData name="Zona_UTM">21S</SimpleData>
+            <SimpleData name="Este_X">437666</SimpleData>
+            <SimpleData name="Norte_Y">7203861</SimpleData>
+            <SimpleData name="Coordenada_confiable">Media</SimpleData>
+            <SimpleData name="Fuente_coordenada">Marca de agua GPS en foto 2 (07/08/2026 10:45); dígito central del Norte dudoso (7203861 vs 7202861). Foto 1 ilegible (fondo de cielo). Verificar en campo.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191252756491,-25.2803868712473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">7</SimpleData>
+            <SimpleData name="Codigo_Censo">E92</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Nombre_cientifico">Copernicia alba</SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437665.52</SimpleData>
+            <SimpleData name="Norte_Y">7203856.29</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada">Foto en anexo, pero marca de agua ilegible contra el cielo en ambas tomas.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191302588515,-25.2804293835849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">8</SimpleData>
+            <SimpleData name="Codigo_Censo">E93</SimpleData>
+            <SimpleData name="Nombre_comun">Taruma</SimpleData>
+            <SimpleData name="Nombre_cientifico">Vitex cymosa</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Sano</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Mal estado sanitario</SimpleData>
+            <SimpleData name="Este_X">437672</SimpleData>
+            <SimpleData name="Norte_Y">7203850</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada">Sin foto en el anexo del informe; sin coordenada registrada.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6190661882146,-25.2804864537004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">9</SimpleData>
+            <SimpleData name="Codigo_Censo">F36</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Ka'i kyhyjeha]]></SimpleData>
+            <SimpleData name="Nombre_cientifico">Albizia hassleri</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Regular</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Zona_UTM">21S</SimpleData>
+            <SimpleData name="Este_X">437632</SimpleData>
+            <SimpleData name="Norte_Y">7203856</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada"><![CDATA[Comparte foto con F37 (07/08/2026); marca de agua parcialmente visible ('21J 437632... 72...56') pero no confiable.]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6194631904132,-25.2804306051012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">10</SimpleData>
+            <SimpleData name="Codigo_Censo">F37</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Nombre_cientifico">Copernicia alba</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Sano</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Zona_UTM">21S</SimpleData>
+            <SimpleData name="Este_X">437640</SimpleData>
+            <SimpleData name="Norte_Y">7203880</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada">Comparte foto con F36; misma observación de ilegibilidad.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6193826345207,-25.2802142133475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">11</SimpleData>
+            <SimpleData name="Codigo_Censo">F54</SimpleData>
+            <SimpleData name="Nombre_comun">Yvyraro</SimpleData>
+            <SimpleData name="Nombre_cientifico">Pterogyne nitens</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Malo</SimpleData>
+            <SimpleData name="Obs_estado_sanitario">Podrido, termitas</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Muerto en pie. Retirar como medida de compensación</SimpleData>
+            <SimpleData name="Este_X">437666.405</SimpleData>
+            <SimpleData name="Norte_Y">7203849.99</SimpleData>
+            <SimpleData name="Coordenada_confiable">No</SimpleData>
+            <SimpleData name="Fuente_coordenada">Sin foto en el anexo del informe; sin coordenada registrada.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191217578446,-25.2804863108565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_destronque_parquecaballero.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_destronque_parquecaballero">
+            <SimpleData name="Nº individuo">12</SimpleData>
+            <SimpleData name="Codigo_Censo">D8</SimpleData>
+            <SimpleData name="Nombre_comun">Tajy hu</SimpleData>
+            <SimpleData name="Nombre_cientifico">Handroanthus heptaphyllus</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Regular</SimpleData>
+            <SimpleData name="Obs_estado_sanitario">Acostado, inicio de podredumbre</SimpleData>
+            <SimpleData name="Accion_solicitada">Podar</SimpleData>
+            <SimpleData name="Obs_accion">Solicitar poda por interrupción en el caminero</SimpleData>
+            <SimpleData name="Zona_UTM">21S</SimpleData>
+            <SimpleData name="Este_X">437562</SimpleData>
+            <SimpleData name="Norte_Y">7203746</SimpleData>
+            <SimpleData name="Coordenada_confiable">Alta</SimpleData>
+            <SimpleData name="Fuente_coordenada">Marca de agua GPS clara en foto 1 (27/08/2026 16:19). Foto 2 confirma de forma parcial (misma zona).</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6201634756308,-25.2814210088356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Document id="arboles_solicitados">
+      <name>arboles_solicitados</name>
+      <Placemark id="arboles_solicitados.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">1</SimpleData>
+            <SimpleData name="Codigo_Censo">E86</SimpleData>
+            <SimpleData name="Nombre_comun">Taruma</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Malo</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Talar y trasladar epifitas a otro árbol. Está ubicado frente a la escalera</SimpleData>
+            <SimpleData name="Este_X">437672.602</SimpleData>
+            <SimpleData name="Norte_Y">7203864.06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6190595648374,-25.2803595138774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">2</SimpleData>
+            <SimpleData name="Codigo_Censo">E87</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437661.389</SimpleData>
+            <SimpleData name="Norte_Y">7203863.17</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191709722935,-25.2803670835094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">3</SimpleData>
+            <SimpleData name="Codigo_Censo">E88</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437665.815</SimpleData>
+            <SimpleData name="Norte_Y">7203859.73</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191271712642,-25.2803983319184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">4</SimpleData>
+            <SimpleData name="Codigo_Censo">E89</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Dentro de piscina natural</SimpleData>
+            <SimpleData name="Este_X">437664.192</SimpleData>
+            <SimpleData name="Norte_Y">7203863.13</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.619143134943,-25.2803675615319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">5</SimpleData>
+            <SimpleData name="Codigo_Censo">E90</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Podar</SimpleData>
+            <SimpleData name="Obs_accion">Podar parte aérea, realizar huecos en el tronco para nido de aves</SimpleData>
+            <SimpleData name="Este_X">437671.697</SimpleData>
+            <SimpleData name="Norte_Y">7203859.79</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6190687489199,-25.2803980352115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">6</SimpleData>
+            <SimpleData name="Codigo_Censo">E91</SimpleData>
+            <SimpleData name="Nombre_comun">Yvyraro</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Malo</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Mal estado sanitario</SimpleData>
+            <SimpleData name="Este_X">437670.083</SimpleData>
+            <SimpleData name="Norte_Y">7203851.59</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6190851548615,-25.2804720157693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">7</SimpleData>
+            <SimpleData name="Codigo_Censo">E92</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Estado_fitosanitario">-</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437665.52</SimpleData>
+            <SimpleData name="Norte_Y">7203856.29</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191302588515,-25.2804293835849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">8</SimpleData>
+            <SimpleData name="Codigo_Censo">E93</SimpleData>
+            <SimpleData name="Nombre_comun">Taruma</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Sano</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Mal estado sanitario</SimpleData>
+            <SimpleData name="Este_X">437672</SimpleData>
+            <SimpleData name="Norte_Y">7203850</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6190661882146,-25.2804864537004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">9</SimpleData>
+            <SimpleData name="Codigo_Censo">F36</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Ka'i kyhyjeha]]></SimpleData>
+            <SimpleData name="Estado_fitosanitario">Regular</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437632</SimpleData>
+            <SimpleData name="Norte_Y">7203856</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6194631904132,-25.2804306051012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">10</SimpleData>
+            <SimpleData name="Codigo_Censo">F37</SimpleData>
+            <SimpleData name="Nombre_comun"><![CDATA[Palmera Karanda'y]]></SimpleData>
+            <SimpleData name="Estado_fitosanitario">Sano</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Este_X">437640</SimpleData>
+            <SimpleData name="Norte_Y">7203880</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6193826345207,-25.2802142133475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">11</SimpleData>
+            <SimpleData name="Codigo_Censo">F54</SimpleData>
+            <SimpleData name="Nombre_comun">Yvyraro</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Malo</SimpleData>
+            <SimpleData name="Accion_solicitada">Talar</SimpleData>
+            <SimpleData name="Obs_accion">Muerto en pie. Retirar como medida de compensación</SimpleData>
+            <SimpleData name="Este_X">437666.405</SimpleData>
+            <SimpleData name="Norte_Y">7203849.99</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6191217578446,-25.2804863108565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="arboles_solicitados.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#arboles_solicitados.schema">
+            <SimpleData name="Nº individuo">12</SimpleData>
+            <SimpleData name="Codigo_Censo">D8</SimpleData>
+            <SimpleData name="Nombre_comun">Tajy hu</SimpleData>
+            <SimpleData name="Estado_fitosanitario">Regular</SimpleData>
+            <SimpleData name="Accion_solicitada">Podar</SimpleData>
+            <SimpleData name="Obs_accion">Solicitar poda por interrupción en el caminero</SimpleData>
+            <SimpleData name="Este_X">437566</SimpleData>
+            <SimpleData name="Norte_Y">7203738</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.6201241148753,-25.2814934175491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
